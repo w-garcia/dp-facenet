@@ -1,0 +1,6 @@
+[submodule "insightface"]
+	path = insightface
+	url = https://github.com/w-garcia/insightface.git
+[submodule "privacy"]
+	path = privacy
+	url = https://github.com/tensorflow/privacy.git
